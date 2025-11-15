@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.0.3",
+    "dynamic-vietqr": "^0.0.81",
+    "express": "^5.1.0",
+    "qrcode": "^1.5.4",
+    "vnpay": "^2.4.4"
+  }
+}
